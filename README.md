@@ -32,9 +32,9 @@ You will also see any lint errors in the console.
 
 ### Screenshots
 
-![Signup](images/signup.jpg)
-![Signin](images/signin.jpg)
-![Home](images/home.jpg)
+![](images/signup.JPG)
+![Signin](images/signin.JPG)
+![Home](images/home.JPG)
 
 
 
