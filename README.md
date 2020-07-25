@@ -1,4 +1,18 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Gitfire
+This web app allows users to sign up/sign in the page, and allows users to search for  profile of any users. This is done with the help of Github API.
+
+### Front End
+
+* React
+* Javascript
+* HTML
+
+### Back End
+* Firebase
+
+## Firebase Configuration
+
+Create a project in firebase and copy all the configs in config/firebaseConfig.js. This will help users to signup/singin the page. 
 
 ## Available Scripts
 
